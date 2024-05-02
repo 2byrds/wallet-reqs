@@ -1,2 +1,2 @@
 # wallet-reqs
-Keri 
+Requirements from the ecosystem for a wallet 
